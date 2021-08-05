@@ -1,0 +1,40 @@
+
+h1{
+  font-size : 60px;
+  margin : 0px;
+  border-bottom : solid;
+  padding:10px;
+
+}
+
+li{
+  margin-bottom: 150px;
+  margin-top : 0px;
+  font-size : 40px;
+
+
+}
+
+a, a:visited, a:hover, a:active {
+  color: inherit;
+}
+
+
+.ja{
+  color : #4169E1
+}
+
+a{
+ text-decoration : none;
+
+}
+ul {
+  border-right : solid; width :100px;
+  margin : 0px;
+  list-style : none;
+  padding : 10px;
+}
+#gg{
+display: grid;
+grid-template-columns: 150px 1fr;
+}
